@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+body{
+    text-align: center;
+    background-color: wheat;
+}
+
+.Texto-anime{
+    font-family: "Oswald", sans-serif;
+}
+
+.Texto-jogo{
+    font-family: "Oswald", sans-serif;
+}
+
+.Texto-música{
+    margin-bottom: 100px;
+    font-family: "Oswald", sans-serif;
+}
+
+
+.Titulo-jogo{
+    border: 5px solid black;    
+    color: red;
+    text-shadow: 4px 4px 10px black
+}
+
+.Titulo-música{
+    border: 5px solid black;
+    color: blue;
+    text-shadow: 4px 4px 10px black
+}
+
+.Titulo-anime{
+    border: 5px solid black;
+    color: orange;
+    text-shadow: 4px 4px 10px black
+}
